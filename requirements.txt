@@ -1,0 +1,4 @@
+opencv-python
+fer
+pandas
+pyserial
